@@ -1,0 +1,6 @@
+// Path: .vscode/settings.json
+
+{
+    // Change liveServer directory to the public of the project
+    "liveServer.settings.root": "public",
+}
